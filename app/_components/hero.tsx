@@ -29,7 +29,7 @@ const [isMenuOpen, setIsMenuOpen] = useState();
             <div className="hidden md:flex items-center space-x-4">
               <Link href="#" className="text-gray-300 hover:text-white transition-colors">Início</Link>
               <Link href="#" className="text-gray-300 hover:text-white transition-colors">Sobre</Link>
-              <Link href="#" className="text-gray-300 hover:text-white transition-colors">Eventos</Link>
+              <Link href="#" className="text-gray-300 hover:text-white transition-colors">Projetos</Link>
               <Link href="#" className="text-gray-300 hover:text-white transition-colors">Contato</Link>
               <Button className="bg-[#b624ff] hover:bg-[#9920d3]">Login</Button>
             </div>
